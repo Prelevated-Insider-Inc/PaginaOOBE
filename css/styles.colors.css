@@ -1,0 +1,59 @@
+.red {
+  --bg-color: #b71c1c;
+}
+
+.orange {
+  --bg-color: #d84315;
+}
+
+.yellow {
+  --bg-color: #f9a825;
+}
+
+.green {
+  --bg-color: #2e7d32;
+}
+
+.lgreen {
+  --bg-color: #7cb342;
+}
+
+.teal {
+  --bg-color: #00796b;
+}
+
+.cyan {
+  --bg-color: #00838f;
+}
+
+.lblue {
+  --bg-color: #0277bd;
+}
+
+.blue {
+  --bg-color: #1565c0;
+}
+
+.indigo {
+  --bg-color: #3949ab;
+}
+
+.dpurple {
+  --bg-color: #4527a0;
+}
+
+.purple {
+  --bg-color: #8e24aa;
+}
+
+.pink {
+  --bg-color: #d81b60;
+}
+
+.gray {
+  --bg-color: #424242;
+}
+
+.blueg {
+  --bg-color: #455a64;
+}
