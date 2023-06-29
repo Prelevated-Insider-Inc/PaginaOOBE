@@ -1,0 +1,294 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Google Sans");
+
+@font-face {
+  font-family: 'Segoe UI Web (West European)';
+  src: url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-light.woff2') format('woff2'), url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-light.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Segoe UI Web (West European)';
+  src: url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-semilight.woff2') format('woff2'), url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-semilight.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Segoe UI Web (West European)';
+  src: url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-regular.woff2') format('woff2'), url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Segoe UI Web (West European)';
+  src: url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-semibold.woff2') format('woff2'), url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Segoe UI Web (West European)';
+  src: url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-bold.woff2') format('woff2'), url('https://static2.sharepointonline.com/files/fabric/assets/fonts/segoeui-westeuropean/segoeui-bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+.kii-paginaoobe-enabled header {
+    height: 139px;
+}
+
+.kii-paginaoobe-enabled htitle {
+    display: block;
+    height: 55px;
+    position: absolute;
+    width: 100vw;
+    top: 15.2%;
+    background: none;
+    font-family: 'Segoe UI Web (West European)';
+    font-size: 25px;
+    font-weight: 400;
+    translate: 0 -50%;
+}
+
+.kii-paginaoobe-enabled htitle * {
+    top: 2px;
+    position: absolute;
+    left: 67px;
+}
+
+main.kii-paginaoobe-enabled {
+    height: -webkit-fill-available;
+    position: relative;
+    font-family: 'Segoe UI Web (West European)';
+    background: purple;
+    color: white;
+}
+
+body {
+    margin: 0;
+}
+
+main.kii-paginaoobe-enabled p, main.kii-paginaoobe-enabled span {
+    position: absolute;
+    text-align: left;
+    left: 3%;
+    width: 100vh;
+}
+
+.kii-paginaoobe-enabled bgimage img {
+    width: 110px;
+    position: relative;
+    translate: -97% 91%;
+    left: 95vw;
+}
+
+.kii-paginaoobe-enabled bgimage {
+    float: left;
+}
+
+.kih-paginaoobe-enabled header {
+    height: 91px;
+}
+
+.kih-paginaoobe-enabled htitle {
+    display: block;
+    height: 55px;
+    position: absolute;
+    width: 100vw;
+    top: 6.2%;
+    background: none;
+    font-family: 'Segoe UI Web (West European)';
+    font-size: 38px;
+    font-weight: 100;
+    translate: 0 -50%;
+}
+
+.kih-paginaoobe-enabled htitle * {
+    top: 2px;
+    position: absolute;
+    left: 67px;
+}
+
+main.kih-paginaoobe-enabled {
+    height: -webkit-fill-available;
+    position: relative;
+    font-family: 'Segoe UI Web (West European)';
+    background: purple;
+    color: white;
+}
+
+body {
+    margin: 0;
+}
+
+main.kih-paginaoobe-enabled p, main.kih-paginaoobe-enabled span {
+    position: absolute;
+    text-align: left;
+    left: 10%;
+    width: 100vh;
+}
+
+.kih-paginaoobe-enabled bgimage img {
+    width: 49px;
+    position: relative;
+    translate: -50% 68%;
+    left: 95vw;
+}
+
+.kih-paginaoobe-enabled bgimage {
+    float: left;
+}
+
+.kig-paginaoobe-enabled header {
+    height: 149px;
+}
+
+.kig-paginaoobe-enabled htitle {
+    display: block;
+    height: 66px;
+    position: relative;
+    width: 100vw;
+    top: 86.2%;
+    background: none;
+    font-family: Google Sans;
+    font-size: 25px;
+    translate: 0% -50%;
+}
+
+.kig-paginaoobe-enabled htitle * {
+    top: 18px;
+    position: absolute;
+    left: 67px;
+}
+
+main.kig-paginaoobe-enabled {
+    height: -webkit-fill-available;
+    position: relative;
+    font-family: 'Roboto';
+}
+
+body {
+    margin: 0;
+}
+
+main.kig-paginaoobe-enabled p, main.kig-paginaoobe-enabled span {
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    translate: -50%;
+}
+
+.kig-paginaoobe-enabled bgimage img {
+    width: 49px;
+    position: fixed;
+    translate: -50% 91%;
+    left: 50%;
+}
+
+.kig-paginaoobe-enabled bgimage {
+    float: left;
+}
+
+.kif-paginaoobe-enabled header {
+    background: purple;
+    height: 240px;
+}
+
+
+.kif2-paginaoobe-enabled header {
+    background: none;
+    height: 217px;
+}
+
+.kif2-paginaoobe-enabled htitle {
+    display: block;
+    height: 48px;
+    position: relative;
+    width: 100vw;
+    top: 86.2%;
+    background: none;
+    font-family: Roboto;
+    color: black;
+    font-size: 22px;
+    translate: 0% -50%;
+}
+
+.kif2-paginaoobe-enabled htitle * {
+    top: 18px;
+    position: absolute;
+    left: 67px;
+}
+
+main.kif2-paginaoobe-enabled {
+    height: -webkit-fill-available;
+    position: relative;
+    font-family: 'Roboto';
+}
+
+body {
+    margin: 0;
+}
+
+main.kif2-paginaoobe-enabled p, main.kif2-paginaoobe-enabled span {
+    left: 39px;
+    position: absolute;
+    width: 87.5vw;
+}
+
+.kif2-paginaoobe-enabled bgimage img {
+    width: 37px;
+    position: fixed;
+    translate: 101% 324%;
+}
+
+.kif2-paginaoobe-enabled bgimage {
+    float: left;
+}
+
+.kif-paginaoobe-enabled htitle {
+    display: block;
+    height: 66px;
+    position: relative;
+    width: 100vw;
+    top: 86.2%;
+    background: rgb(0 0 0 / 10%);
+    font-family: Roboto;
+    color: white;
+    font-size: 25px;
+    translate: 0% -50%;
+}
+
+.kif-paginaoobe-enabled htitle * {
+    top: 18px;
+    position: absolute;
+    left: 67px;
+}
+
+main.kif-paginaoobe-enabled {
+    height: -webkit-fill-available;
+    position: relative;
+    font-family: 'Roboto';
+}
+
+body {
+    margin: 0;
+}
+
+main.kif-paginaoobe-enabled p, main.kif-paginaoobe-enabled span {
+    left: 68px;
+    position: absolute;
+    width: 87.5vw;
+}
+
+.kif-paginaoobe-enabled bgimage img {
+    width: 97px;
+    position: fixed;
+    translate: -150% 35%;
+}
+
+.kif-paginaoobe-enabled bgimage {
+    float: right;
+}
