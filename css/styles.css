@@ -63,7 +63,7 @@ main.kii-paginaoobe-enabled {
     height: -webkit-fill-available;
     position: relative;
     font-family: 'Segoe UI Web (West European)';
-    background: purple;
+    background: var(--bg-color);
     color: white;
 }
 
@@ -116,7 +116,7 @@ main.kih-paginaoobe-enabled {
     height: -webkit-fill-available;
     position: relative;
     font-family: 'Segoe UI Web (West European)';
-    background: purple;
+    background: var(--bg-color);
     color: white;
 }
 
@@ -193,7 +193,7 @@ main.kig-paginaoobe-enabled p, main.kig-paginaoobe-enabled span {
 }
 
 .kif-paginaoobe-enabled header {
-    background: purple;
+    background: var(--bg-color);
     height: 240px;
 }
 
