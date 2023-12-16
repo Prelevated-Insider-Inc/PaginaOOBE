@@ -48,7 +48,7 @@
     top: 15.2%;
     background: none;
     font-family: 'Segoe UI Web (West European)';
-    font-size: 5vw;
+    font-size: 25px;
     font-weight: 400;
     translate: 0 -50%;
 }
@@ -74,8 +74,8 @@ body {
 main.kii-paginaoobe-enabled p, main.kii-paginaoobe-enabled span {
     position: absolute;
     text-align: left;
-    left: 5%;
-    width: 90vw;
+    left: 3%;
+    width: 100vh;
 }
 
 .kii-paginaoobe-enabled bgimage img {
@@ -154,7 +154,7 @@ main.kih-paginaoobe-enabled p, main.kih-paginaoobe-enabled span {
     top: 86.2%;
     background: none;
     font-family: Google Sans;
-    font-size: 5vw;
+    font-size: 25px;
     translate: 0% -50%;
 }
 
@@ -278,7 +278,7 @@ body {
 }
 
 main.kif-paginaoobe-enabled p, main.kif-paginaoobe-enabled span {
-    left: 5%;
+    left: 68px;
     position: absolute;
     width: 87.5vw;
 }
